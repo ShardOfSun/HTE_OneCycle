@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Системные/📜 Шаблоны/🎭 НИПы/Серебряные/Белгран.md",
+                "file": "04_Механики/Кости/Эмоции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Белгран"
+              "title": "Обратные ссылки для Эмоции"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Системные/📜 Шаблоны/🎭 НИПы/Серебряные/Белгран.md",
+                "file": "04_Механики/Кости/Эмоции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Белгран"
+              "title": "Исходящие ссылки из Эмоции"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -188,8 +188,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -211,14 +211,23 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "d7983c34bdea2665",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 738.5,
-    "collapsed": true
+    "width": 738.5
   },
   "left-ribbon": {
     "hiddenItems": {
