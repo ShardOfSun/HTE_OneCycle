@@ -1,0 +1,14 @@
+/* Убираем ограничение ширины в preview и source view */
+.markdown-preview-view,
+.markdown-source-view {
+    max-width: none !important;
+    width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* Для Dataview-таблиц: растягиваем на всю ширину */
+.dataview.table-view-table {
+    width: 100% !important;
+    table-layout: auto !important;
+}

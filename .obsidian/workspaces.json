@@ -1,0 +1,1493 @@
+{
+  "workspaces": {
+    "MindMap": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "0669a455154423ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40641c2bdfc98db3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "54a3b7cbf163024c",
+      "mtime": "2024-04-21T18:03:00+03:00"
+    },
+    "Pathfinder:Belgran": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "0b7300c59690cdb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40641c2bdfc98db3",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/Белгран/Белгран.canvas",
+                    "viewState": {
+                      "x": 820,
+                      "y": 400,
+                      "zoom": -1.8030566927097176
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0669a455154423ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3463106206faba3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/Белгран/Чарник Белгран.pdf"
+                  }
+                }
+              },
+              {
+                "id": "ff96c2980c353711",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/Белгран/Чарник Эйдолон.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/Белгран/Белгран.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/Белгран/Белгран.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/Белгран/Белгран.canvas"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "40641c2bdfc98db3",
+      "mtime": "2024-04-21T18:03:35+03:00"
+    },
+    "AaDS": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "0b7300c59690cdb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb73d1319cc429d6",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Eduaction/Algorithms and data structures/Task_3.canvas",
+                    "viewState": {
+                      "x": -449,
+                      "y": -147,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Eduaction/Algorithms and data structures/Task_3.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Eduaction/Algorithms and data structures/Task_3.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Eduaction/Algorithms and data structures/Task_3.canvas"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "cb73d1319cc429d6",
+      "mtime": "2024-04-24T11:55:41+03:00"
+    },
+    "Конец света": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f66d8721914ff3a",
+            "type": "split",
+            "children": [
+              {
+                "id": "0b7300c59690cdb6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ecd0e4323d6f4307",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Pathfinder/Конец света/Конец света.canvas",
+                        "viewState": {
+                          "x": -1230.0663307758894,
+                          "y": 803.773209742963,
+                          "zoom": -0.4822969838648536
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "d4a2bcb28a3cb8c4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "40641c2bdfc98db3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Pathfinder/Конец света/Лор/Неписи/Архангелы.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Pathfinder/Конец света/Лор/Неписи/Архангелы.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Pathfinder/Конец света/Лор/Неписи/Архангелы.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Pathfinder/Конец света/Лор/Неписи/Архангелы.md"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "40641c2bdfc98db3",
+      "mtime": "2024-04-25T20:01:37+03:00"
+    },
+    "MaO": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "9e36e7d97fcd2584",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40641c2bdfc98db3",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Eduaction/Mechanic and optics/2 Аттестация/2 Аттестация.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Eduaction/Mechanic and optics/2 Аттестация/2 Аттестация.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Eduaction/Mechanic and optics/2 Аттестация/2 Аттестация.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Eduaction/Mechanic and optics/2 Аттестация/2 Аттестация.canvas"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "54a3b7cbf163024c",
+      "mtime": "2024-04-26T08:50:23+03:00"
+    },
+    "Work": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "0b7300c59690cdb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a7c404f718f75c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "R3DS/Отчёты.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "57f9bd6954d2e27f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fae54a09286b199a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "R3DS/Часы работы.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa3b6ad3381e0f58",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.5"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "R3DS/Часы работы.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "R3DS/Часы работы.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "R3DS/Часы работы.md"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "54a3b7cbf163024c",
+      "mtime": "2024-07-07T19:44:52+03:00"
+    },
+    "DLC Кампании": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "57f9bd6954d2e27f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fae54a09286b199a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "R3DS/Часы работы.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa3b6ad3381e0f58",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/DLC/Члены Ордена/Силко.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d104d0189fbfa49b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a7aaaebb0383a71",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/DLC/Шаблон персонажа/3 Шаблон персонажа.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 219.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/DLC/Члены Ордена/Силко.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/DLC/Члены Ордена/Силко.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Pathfinder/2 кампания Некит/DLC/Члены Ордена/Силко.md"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "fa3b6ad3381e0f58",
+      "mtime": "2024-07-08T10:03:43+03:00"
+    },
+    "Plans": {
+      "main": {
+        "id": "d81e24825cca2b30",
+        "type": "split",
+        "children": [
+          {
+            "id": "0b7300c59690cdb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ecd0e4323d6f4307",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plans/Шаблон.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a61b04547ad92f1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e5bebbdfafd0fe0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06c56ff1d1ce2a72",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#programs",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ef821ca01cb8358",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "54a3b7cbf163024c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 323.5
+      },
+      "right": {
+        "id": "d47734e5d256c1a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4579fc64ca44df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85d53391dac3b798",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Plans/Шаблон.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93fcedbb749a9566",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Plans/Шаблон.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0d05a9a6e00aa58",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "84ee66275626ad41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Plans/Шаблон.md"
+                  }
+                }
+              },
+              {
+                "id": "0059022b44d2bdfe",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "450345863bdd776e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 738.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "ecd0e4323d6f4307",
+      "mtime": "2024-08-08T12:00:45+03:00"
+    }
+  },
+  "active": "Work"
+}
